@@ -11,7 +11,7 @@ In this lab, you are going to practice the basics of writing **for loops and whi
 
 ## Instructions 
 
-- **Fork** this repo to your account by cliking on the **fork** Button at the top of this page. 
+- **Fork** this repo to your account by clicking on the **fork** Button at the top of this page. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
 
