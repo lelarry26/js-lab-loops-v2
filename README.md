@@ -17,7 +17,7 @@ In this lab, you are going to practice the basics of writing **for loops and whi
 
 *A **fork** is a copy of this repository. This forked repository will appear on your github account.*
 
-- Find the repository on *YOUR* account (ie yourUserName/js-lab-conditionals) and click on the green `Code` button at the top of the page.
+- Find the repository on *YOUR* account (ie yourUserName/js-lab-loops) and click on the green `Code` button at the top of the page.
 
 ![](./images/githubCodeButton.png)
 
